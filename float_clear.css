@@ -1,0 +1,15 @@
+.float_clear1 {
+  height: 300px;
+  width: 300px;
+  float: left;
+  clear: left;
+  background-color: aqua;
+}
+.float_clear2 {
+  height: 300px;
+  width: 300px;
+  float: left;
+  /* clr proporty shows the empty beside */
+  clear: left;
+  background-color: black;
+}

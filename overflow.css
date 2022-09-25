@@ -1,0 +1,22 @@
+.overflow_box1 {
+  height: 200px;
+  width: 400px;
+  background-color: aqua;
+  float: left;
+  border: 2px solid black;
+  overflow: scroll;
+  overflow: hidden;
+  overflow-x: scroll;
+  overflow-y: hidden;
+}
+.overflow_box2 {
+  height: 200px;
+  width: 400px;
+  background-color: aqua;
+  float: left;
+  border: 2px solid black;
+  overflow: scroll;
+  overflow: hidden;
+  overflow-x: hidden;
+  overflow-y: scroll;
+}

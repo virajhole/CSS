@@ -1,0 +1,8 @@
+.padding {
+  background-color: lightcoral;
+
+  float: left;
+  width: 50%;
+  /* clockwise direction */
+  padding: 100px 50px 30px 10px;
+}

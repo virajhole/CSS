@@ -1,0 +1,14 @@
+.div1 {
+  height: 500px;
+  width: 50%;
+  /* background-color: aqua; */
+  background-image: linear-gradient(to right, orange, skyblue, green);
+  float: left;
+}
+.div2 {
+  float: left;
+  height: 500px;
+  width: 50%;
+  /* background-color: aqua; */
+  background-image: radial-gradient(black 50%, pink, red);
+}

@@ -1,0 +1,20 @@
+h1 {
+  color: blue;
+  text-transform: capitalize;
+  text-transform: lowercase;
+  text-transform: uppercase;
+  text-decoration: overline;
+  /* nonn for remove all */
+  /* text-decoration:none; */
+
+  text-decoration: line-through;
+  text-decoration: underline;
+  text-decoration-color: red;
+  text-decoration-style: dotted;
+  font-size: 28px;
+  line-height: 50px;
+  text-align: center;
+  font-weight: 200px;
+  font-family: "Courier New", Courier, monospace;
+  font-style: oblique;
+}

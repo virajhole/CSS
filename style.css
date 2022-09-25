@@ -1,0 +1,10 @@
+body {
+  /* !important use when order properties and not important  */
+  padding: 0;
+  margin: 0;
+  background-color: yellowgreen;
+}
+
+.h1 {
+  background-color: aqua;
+}

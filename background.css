@@ -1,0 +1,30 @@
+.background-img {
+  width: 100vw;
+  height: 100vh;
+  float: left;
+  background-image: url(https://source.unsplash.com/featured/100whx100vh);
+  /* background-repeat: repeat-y;
+  background-repeat: repeat-y;
+  background-repeat: no-repeat;
+  background-size: 100px 100px;
+  background-position: top left;
+  background-position: top right;
+  background-position: top center;
+  background-position: center left;
+  background-position: center center;
+  background-position: center right;
+  background-position: bottom left;
+  background-position: bottom right;
+  background-position: bottom center;
+  background-position: 200px 500px; */
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  /* background-attachment: scroll; */
+}
+
+.background-img2 {
+  float: left;
+  height: 200%;
+  width: 100%;
+  background-color: aquamarine;
+}
